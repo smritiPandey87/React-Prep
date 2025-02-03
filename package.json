@@ -1,0 +1,29 @@
+{
+  "name": "reactprep",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/smritiPandey87/React-Prep#readme",
+  "bugs": {
+    "url": "https://github.com/smritiPandey87/React-Prep/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smritiPandey87/React-Prep.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+  "start": "vite",
+  "build": "vite build"
+},
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    
+    "process": "^0.11.10",
+    "vite": "^6.0.11"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
